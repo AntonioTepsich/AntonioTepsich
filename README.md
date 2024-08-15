@@ -21,7 +21,7 @@ I'm student of the first batch of 🧠 **`Artificial Intelligence Engineering`**
 
  📈  I rebuilt from scratch the Entrepreneurship Club of my University, which I had the opportunity to put together a team of 8 people and at the same time organize events with Co-Founders and CEOs of the most recognized companies in the region and worldwide such as Globant, IBM, Pomelo, among others.  
  
- 👨‍💻 I'm currently working on one side projects (SaaS) - **MileiPedia**
+ 👨‍💻 I've built one side project - [**Mileipedia.com**](https://mileipedia.com)
 
  💬 Ask me about Full Stack Development, Entrepreneurship, Cloud, Machine Learning, Competitions and of course, **statistics**.
  
