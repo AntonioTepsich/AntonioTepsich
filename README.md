@@ -43,5 +43,5 @@ Let's connect 👨‍💻 and build the tools of the future. 😁✌
 
 [linkedin]: https://www.linkedin.com/in/antonio-tepsich/?locale=en_US
 [mail]:mailto:atepsich@udesa.edu.ar
-[twitter]: https://x.com/antotepsich
+[twitter]: https://x.com/antonio_tepsich
 [instagram]: https://www.instagram.com/antoniotepsich/
